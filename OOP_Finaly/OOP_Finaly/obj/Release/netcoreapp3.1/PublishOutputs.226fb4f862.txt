@@ -1,0 +1,5 @@
+C:\Users\user\OOP_Finaly.exe
+C:\Users\user\OOP_Finaly.dll
+C:\Users\user\OOP_Finaly.deps.json
+C:\Users\user\OOP_Finaly.runtimeconfig.json
+C:\Users\user\OOP_Finaly.pdb

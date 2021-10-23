@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\bin\Debug\netcoreapp3.1\OOP_Finaly.exe
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\bin\Debug\netcoreapp3.1\OOP_Finaly.deps.json
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\bin\Debug\netcoreapp3.1\OOP_Finaly.runtimeconfig.json
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\bin\Debug\netcoreapp3.1\OOP_Finaly.runtimeconfig.dev.json
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\bin\Debug\netcoreapp3.1\OOP_Finaly.dll
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\bin\Debug\netcoreapp3.1\OOP_Finaly.pdb
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.Form1.resources
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.AssemblyInfo.cs
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.dll
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.pdb
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.genruntimeconfig.cache
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.Main.resources
+C:\Users\user\source\repos\OOP_Finaly\OOP_Finaly\obj\Debug\netcoreapp3.1\OOP_Finaly.Properties.Resources.resources
